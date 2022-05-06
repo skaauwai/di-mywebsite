@@ -1,0 +1,62 @@
+.skill_img_wrapper {
+  min-width: 25%;
+}
+
+.skills_header {
+  top: 1500px;
+  left: 600px;
+  height: 22px;
+  font-family: "Montserrat";
+  font-size: 39px;
+  text-align: center;
+  font-weight: 400;
+  color: #66bfbf;
+}
+.skill {
+  display: flex;
+  width: 853px;
+  margin: 0 auto;
+}
+.skill_img_wrapper {
+  min-width: 25%;
+}
+
+.skill_photo {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+.skill_desc {
+  flex-direction: column;
+  flex-grow: 2;
+}
+
+.skill_desc h3 {
+  color: #11999e;
+  font-family: "Montserrat";
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+}
+
+.skill_desc p {
+  width: 608px;
+  height: 96px;
+  font-family: "Merriweather";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 32px;
+}
+
+.skill__photo2 {
+  width: 176px;
+  height: 176px;
+  left: 1066px;
+  top: 1783px;
+}
+
+.skill_img_wrapper_right {
+  order: 2;
+}

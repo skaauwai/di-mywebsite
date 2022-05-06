@@ -1,0 +1,51 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 883px;
+  height: 586px;
+  left: 420px;
+  top: 217px;
+  background: #ffffff;
+  border-radius: 4px;
+}
+.ModalBtn {
+  width: 59px;
+  height: 39px;
+  color: #11999e;
+  left: 1224px;
+  top: 745px;
+}
+
+.form_element {
+  display: flex;
+  flex-direction: column;
+}
+
+.form_label {
+  width: 68px;
+  height: 19px;
+  left: 440px;
+  top: 475px;
+  font-family: "Merriweather";
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+  font-color: black;
+}
+
+.form_input {
+  border: 1px solid #999;
+  border-radius: 8px;
+  padding: 10px;
+  font-size: 1rem;
+  color: #222;
+  width: 200px;
+}
+
+.form_textarea {
+  border: 1px solid #999;
+  border-radius: 8px;
+  padding: 20px;
+  font-size: 1rem;
+  color: #ccc;
+}
