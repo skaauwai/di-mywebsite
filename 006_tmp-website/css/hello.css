@@ -1,0 +1,28 @@
+.hello_header {
+  font-family: "Montserrat";
+  font-size: 39px;
+  text-align: center;
+  font-weight: 400;
+  color: #66bfbf;
+}
+
+.hello_image {
+  position: relative;
+  display: block;
+  margin: 0 auto;
+  width: 180px;
+  height: 180px;
+}
+.hand_wave {
+  display: block;
+  width: 30px;
+  height: 30px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.hello p {
+  text-align: center;
+  font: size 11px;
+  font-family: Merriweather;
+}

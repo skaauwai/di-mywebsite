@@ -1,0 +1,38 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.ModalBtn {
+  width: px;
+  height: 39px;
+  color: #11999e;
+  left: 1224px;
+  top: 745px;
+}
+
+.form_element {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.form_label {
+  color: #555;
+  font-size: 13px;
+  font-family: "Merriweather";
+}
+
+.form_input {
+  border: 1px solid #999;
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 1rem;
+  color: #222;
+  text-align: left;
+}
+.form text_area {
+  justify-content: left;
+  font-family: "Merriweather";
+  font-size: 2px;
+}

@@ -1,0 +1,47 @@
+.header {
+  position: relative;
+  padding-top: 150px;
+  background-color: #e4f9f5;
+}
+.header_title {
+  margin: 0 0 34;
+  color: #66bfbf;
+  font-family: "Sacramento", cursive;
+  font-weight: 400;
+  font-size: 8.9rem;
+  text-align: center;
+}
+
+.header_subtitle {
+  color: #66bfbf;
+  font-family: "Montserrat";
+  font-size: 4rem;
+  font-weight: 400;
+  text-align: center;
+}
+
+.header_pro {
+  text-decoration: underline;
+}
+
+.header_right-cloud {
+  position: absolute;
+  width: 150px;
+  height: 48px;
+  top: 54px;
+  left: 1000px;
+}
+.header_left-cloud {
+  position: absolute;
+  width: 150px;
+  height: 48px;
+  top: 350px;
+  left: 250px;
+}
+.header_sea {
+  position: relative;
+  top: 20px;
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+}

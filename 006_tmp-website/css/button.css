@@ -1,0 +1,31 @@
+.button_text {
+  width: 135px;
+  height: 23px;
+  left: 793;
+  top: 2405;
+  font-family: "Montserrat";
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 23px;
+  text-align: center;
+}
+
+.button {
+  background-color: #11ccd4;
+  border: none;
+  width: 125px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 35px;
+  display: block;
+  margin: 0 auto;
+}
+
+.button:hover {
+  background-color: #002ead;
+  transition: 0.7s;
+  text-decoration: none;
+}

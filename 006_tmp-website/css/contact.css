@@ -1,0 +1,28 @@
+.contact {
+  margin-bottom: 89px;
+}
+
+.contact h2 {
+  font-family: "Montserrat";
+  font-size: 39px;
+  text-align: center;
+  font-weight: 400;
+  color: #66bfbf;
+  text-align: center;
+  margin: 0;
+}
+
+.contact h3 {
+  text-align: center;
+  color: #11999e;
+  font-size: 18px;
+  font-family: "Montserrat";
+  margin: 44px 0 47px 0;
+}
+
+.contact p {
+  text-align: center;
+  font-size: 13px;
+  font-family: "Merriweather";
+  margin-bottom: 76px;
+}

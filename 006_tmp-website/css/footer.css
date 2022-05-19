@@ -1,0 +1,32 @@
+.footer {
+  background-color: #66bfbf;
+  height: 178px;
+  top: 2529px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.footer_link {
+  width: 70px;
+  height: 20px;
+  top: 2579px;
+  left: 721px;
+  font-family: "Montserrat";
+  font-weight: 400;
+  font-size: 16px;
+  color: #11999e;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+}
+
+.footer_text {
+  display: flex;
+  justify-content: center;
+  height: 24px;
+  left: 769px;
+  top: 2631px;
+  font-family: "Merriweather";
+  font-size: 12px;
+  color: #eaf6f6;
+}
